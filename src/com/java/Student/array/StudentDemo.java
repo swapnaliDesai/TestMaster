@@ -11,7 +11,7 @@ public class StudentDemo {
 		
 		int No =0;
 		StudentDemo [][]ArrayOfStud=new StudentDemo[2][3];
-		
+		/////hiiiiiiiiiiii
 				int i;
 				int k;
 				Scanner sc=new Scanner(System.in);
